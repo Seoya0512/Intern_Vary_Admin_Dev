@@ -8,7 +8,7 @@
 
 그 동안의 프로젝트에서 raw query문을 주로 사용해서 진행해서 이번에는 ORM(Object Relational Mapping)을 적극적으로 활용해 보고 싶다는 생각이 들었다.
 
-그래서 이전에 Instagram 클론 했던 프로젝트를 sequelize로 리팩토링하면서 사용 방법을 익힐 수 있었다. 사내 코드를 Github에 올리기는 어려우니 학습했던 내용을 기록으로 남겨둔다. (sequelize_practice 확인📍)
+그래서 이전에 Instagram 클론 했던 프로젝트를 sequelize로 리팩토링하면서 사용 방법을 익힐 수 있었다. 사내 코드를 Github에 올리기는 어려우니 학습했던 내용을 기록으로 남겨둔다. ([sequelize_practice](./sequelize_practice/) 확인📍)
 
 <br>
 
